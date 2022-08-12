@@ -1,0 +1,28 @@
+.container-fluid {
+    margin-top: 5%;
+    width: 50% !important;
+    background-color: gainsboro;
+    border-radius: 10px;
+}
+
+#form {
+    display: flex;
+    justify-content: space-between;
+}
+
+#tareaInput {
+    width: 80%;
+}
+
+#sizeTask {
+    width: 70%;
+}
+
+#counters {
+    margin-top: 40px;
+}
+
+span {
+    font-weight: bolder;
+}
+
